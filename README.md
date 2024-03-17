@@ -1,6 +1,6 @@
 # Profile Effects For [Guilded](https://www.guilded.gg/)
 
-# !Warning! This is highly buggy and will not be updated unless it just doiesnt work!
+# !Warning! This is highly buggy and will not be updated unless it just doesnt work!
 
 ## How To Use
 
