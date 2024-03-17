@@ -1,1 +1,1 @@
-# Custom-Effects-For-Guilded
+# Profile Effects For [Guilded](https://www.guilded.gg/)
